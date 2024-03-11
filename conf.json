@@ -1,5 +1,7 @@
 {
-    "SenderEmail": "example@example.com",
-    "UserName": "example",
-    "UserPassword": "example"
+    "ServerLink": "smtp.gmail.com",
+    "ServerPort": 587,
+    "SenderEmail": "example@gmail.com",
+    "UserName": "example@gmail.com",
+    "UserPassword": "xxxx xxxx xxxx xxxx"
 }
