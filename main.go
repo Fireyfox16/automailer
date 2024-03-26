@@ -62,7 +62,7 @@ func getInput() string {
 	if err != nil {
 		log.Fatalf("Error reading input: %s", err)
 	}
-	input = strings.TrimSpace(input) // Remove leading and trailing whitespace
+	input = strings.TrimSpace(input)
 	return input
 }
 
